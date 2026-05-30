@@ -138,7 +138,6 @@ Generate complete social media content with:
 
 ### Clone Repository
 
-```bash
 git clone https://github.com/yourusername/social-media-automation.git
 
 cd social-media-automation
@@ -184,16 +183,22 @@ Social Listening
 Trend Detection
 AI Caption Variations
 Advanced Reporting
-📸 Screenshots
-Dashboard
 
-Add your dashboard screenshot here.
+## 📸 Project Screenshots
 
-![Dashboard](./screenshots/dashboard.png)
-AI Composer
-![AI Composer](./screenshots/ai-composer.png)
-Scheduler
-![Scheduler](./screenshots/scheduler.png)
+### Dashboard
+![Dashboard](./sm1.png)
+
+### AI Composer
+![AI Composer](./sm2.png)
+
+### Scheduler
+![Scheduler](./sm3.png)
+
+### Analytics
+![Analytics](./sm4.png)
+
+
 🎯 Key Highlights
 
 ✅ AI-Powered Content Generation
