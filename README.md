@@ -189,13 +189,13 @@ Advanced Reporting
 ### Dashboard
 ![Dashboard](./sm1.png)
 
-### AI Composer
+### Login
 ![AI Composer](./sm2.png)
 
 ### Scheduler
 ![Scheduler](./sm3.png)
 
-### Analytics
+### AI Composer
 ![Analytics](./sm4.png)
 
 
